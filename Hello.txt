@@ -2,4 +2,6 @@ Hello world
 
 Step 1
 Step 2 
-amending previous commit
+Edited
+Soft Added
+
